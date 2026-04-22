@@ -1,4 +1,4 @@
-# 💫 About Me:
+About Me:
 i'm currently working on react native<br>
 
 
